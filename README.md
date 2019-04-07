@@ -7,4 +7,4 @@
 2. Flick phone
 3. Enjoy a number going up and then down
 
-# All features should be working per spec
+###### All features should be working per spec
